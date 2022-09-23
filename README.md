@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# dart-boleto-brasileiro-validator
+### Inspirado em [boleto-brasileiro-validator]([boleto-brasileiro-validator](https://github.com/mcrvaz/boleto-brasileiro-validator))
